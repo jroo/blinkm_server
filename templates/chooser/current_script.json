@@ -1,0 +1,7 @@
+{
+    "instruction_id": {{ command.id }},
+    "method": "play_light_script",
+    "arguments": {
+        "n": {{ command.script }} 
+    }
+}
